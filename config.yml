@@ -1,0 +1,4 @@
+TOKEN         : "[Insert Token Here]"
+model_folder  : "./src/models/"
+data_folder   : "./src/data/"
+verbose       : true

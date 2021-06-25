@@ -23,7 +23,7 @@ TODO: make this usable
     ├── models
     └── scraper.py
 ```
-The bot consists of the following modules:\
+The bot consists of the following modules:
 * `main.py`: script used to launch LyreBot (handles all other scripts).
 * `bot.py`: the core functionality that juggles scraping, tuning, and inference.
 * `fine_tune.py`: fine-tunes a model weights based on a users prior messages
