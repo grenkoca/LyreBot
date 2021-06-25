@@ -1,2 +1,3 @@
 .idea
 config.yml
+src/__pycache__/
