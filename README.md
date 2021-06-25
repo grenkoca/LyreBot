@@ -1,5 +1,14 @@
 # LyreBot: A Discord Mimicy Machine
-Project structure:
+## Description:
+
+A discord bot capable of mimicing users within the channel. 
+TODO: expand this
+
+## Usage:
+TODO: make this usable
+
+
+## Project structure:
 ```
 .
 ├── environment.yml
